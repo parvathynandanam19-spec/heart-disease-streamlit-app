@@ -8,3 +8,6 @@ joblib
 matplotlib
 seaborn
 shap
+numba
+llvmlite
+lime
